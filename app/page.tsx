@@ -454,7 +454,7 @@ export default function HomePage() {
     {
       question: "Dimana Kantor Pusat Happy Friends Project?",
       answer:
-        "Kantor pusat kami berada di Jakarta dan kami melayani seluruh Indonesia dengan tim kreatif yang berpengalaman dalam pembuatan yearbook.",
+        "Kantor pusat kami berada di Bandar Lampung dan kami melayani seluruh Indonesia dengan tim kreatif yang berpengalaman dalam pembuatan yearbook.",
     },
     {
       question: "Apakah Memiliki Legalitas?",
